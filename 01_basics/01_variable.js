@@ -12,7 +12,7 @@ accountCity="latehar"
 
 console.log (accountId);
 
-// console.log([accountId,accountEmail,accountPassword,accountCity,accountState])
+ console.log([accountId,accountEmail,accountPassword,accountCity,accountState])
 
 //   console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
 
